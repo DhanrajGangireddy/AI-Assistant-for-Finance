@@ -1,0 +1,15 @@
+streamlit
+langchain
+langchain-community
+langchain-chroma>=0.1.2
+langchain-huggingface
+sentence-transformers
+langchain-groq
+langchain-text-splitters
+huggingface-hub
+python-dotenv
+fastapi
+pydantic
+pydantic-settings
+motor
+uvicorn
